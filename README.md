@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi 👋, I'm Hamzah Kholilul Azka
 
-<!--
-**amzahaja67-nox/amzahaja67-nox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Informatics Student | Frontend Developer**
 
-Here are some ideas to get you started:
+Passionate about building modern web applications with clean design and good user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🎓 Informatics Student at Jambi
+- 💻 Frontend Developer - suka ngoprek React & Tailwind
+- 🌱 Currently learning JavaScript & System Design
+- 📍 Jambi, Indonesia
+
+---
+
+### 🛠️ Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,git,github,vscode,figma)](https://skillicons.dev)
+
+---
+
+### 📊 GitHub Stats
+![Hamzah's GitHub stats](https://github-readme-stats.vercel.app/api?username=amzahaja67-nox&show_icons=true&theme=tokyonight)
