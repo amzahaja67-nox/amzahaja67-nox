@@ -7,7 +7,7 @@
 Passionate about building modern web applications with clean design and good user experience.
 
 ---
-
+<div align="left">
 ### 🚀 About Me
 - 🎓 Informatics Student at Jambi
 - 💻 Frontend Developer - suka ngoprek React & Tailwind
