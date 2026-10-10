@@ -5,7 +5,7 @@
 **Information Systems Student | Full Stack Developer**
 
 Passionate about building modern web applications with clean design and good user experience.
----
+
 </div>
 
 ---
