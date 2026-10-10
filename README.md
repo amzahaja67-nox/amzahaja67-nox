@@ -1,12 +1,17 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1BA0E3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Hamzah+Kholilul+Azka;Information+Systems+Student;Full+Stack+Developer;Building+Modern+Web+Apps" alt="Typing SVG" />
+</p>
 
-### Hi 👋, I'm Hamzah Kholilul Azka
----
-**Information Systems Student | Full Stack Developer**
+<h3 align="center">Information Systems Student | Full Stack Developer</h3>
 
-Passionate about building modern web applications with clean design and good user experience.
+<p align="center">
+  Passionate about building modern web applications with clean design and good user experience.
+</p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amzahaja67-nox&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://amzahaja67-nox.github.io/portofolio/"><img src="https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat&logo=vercel" alt="portfolio" /></a>
+</p>
 
 ---
 
@@ -18,20 +23,26 @@ Passionate about building modern web applications with clean design and good use
 
 ---
 
-<div align="center">
-
 ### 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,laravel,mysql,postgres)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=tailwind,react,nodejs,git,github,figma,vscode,supabase)](https://skillicons.dev)
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,laravel,mysql,postgres,tailwind,react,nodejs,git,github,figma,vscode,supabase" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-  
 ### 📊 GitHub Stats
-![Hamzah's GitHub stats](https://github-readme-stats.vercel.app/api?username=amzahaja67-nox&show_icons=true&theme=tokyonight)
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amzahaja67-nox&show_icons=true&theme=tokyonight" alt="stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amzahaja67-nox&theme=tokyonight" alt="streak" />
+</p>
+
+---
+
+<p align="center"> 
+  📫 How to reach me: **github.com/amzahaja67-nox**
+</p>
