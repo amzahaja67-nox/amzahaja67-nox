@@ -6,13 +6,15 @@
 
 Passionate about building modern web applications with clean design and good user experience.
 
+</div>
+
 ---
 
 ### 🚀 About Me
-🎓 Information Systems Student at Jambi
-💻 Full Stack Developer
-🌱 Currently learning JavaScript & System Design
-📍 Jambi, Indonesia
+- 🎓 Information Systems Student at Jambi
+- 💻 Full Stack Developer
+- 🌱 Currently learning JavaScript & System Design
+- 📍 Jambi, Indonesia
 
 ---
 
@@ -28,3 +30,5 @@ Passionate about building modern web applications with clean design and good use
   
 ### 📊 GitHub Stats
 ![Hamzah's GitHub stats](https://github-readme-stats.vercel.app/api?username=amzahaja67-nox&show_icons=true&theme=tokyonight)
+
+</div>
