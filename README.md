@@ -19,10 +19,12 @@ Passionate about building modern web applications with clean design and good use
 ---
 
 <div align="center">
-  
+
 ### 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,git,github,vscode,figma)](https://skillicons.dev)
+[[My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,laravel,mysql,postgres,tailwind,react,nodejs,git,github,figma,vscode)](https://skillicons.dev)
+
+</div>
 
 ---
 
