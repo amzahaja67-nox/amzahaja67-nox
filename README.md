@@ -2,15 +2,15 @@
 
 ### Hi 👋, I'm Hamzah Kholilul Azka
 
-**Informatics Student | Frontend Developer**
+**Information Systems Student | Backend Developer**
 
 Passionate about building modern web applications with clean design and good user experience.
 
 ---
 
 ### 🚀 About Me
-- 🎓 Informatics Student at Jambi
-- 💻 Frontend Developer - suka ngoprek React & Tailwind
+- 🎓 Information Systems Student at Jambi
+- 💻 Backend Developer - suka ngoprek React & Tailwind
 - 🌱 Currently learning JavaScript & System Design
 - 📍 Jambi, Indonesia
 
