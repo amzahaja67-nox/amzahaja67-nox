@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,20&height=220&section=header&text=HAMZAH%20AZKA&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Information%20Systems%20%7C%20Full%20Stack%20Developer%20%7C%20Jambi&descAlignY=75&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,20&height=220&section=header&text=HAMZAH%20KHOLILUL%20AZKA&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Information%20Systems%20%7C%20Full%20Stack%20Developer%20%7C%20Jambi&descAlignY=75&descAlign=50" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1BA0E3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Hamzah+Kholilul+Azka;Information+Systems+Student;Full+Stack+Developer;Building+Modern+Web+Apps" alt="Typing SVG" />
