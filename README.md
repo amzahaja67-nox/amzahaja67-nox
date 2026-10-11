@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  ![views](https://visitor-badge.laobi.icu/badge?page_id=amzahaja67-nox.amzahaja67-nox)
+  <img src="https://komarev.com/ghpvc/?username=amzahaja67-nox&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://amzahaja67-nox.github.io/portofolio/"><img src="https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat&logo=vercel" alt="portfolio" /></a>
 </p>
 
