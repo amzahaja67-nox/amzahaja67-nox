@@ -78,3 +78,5 @@
 <p align="center"> 
   📫 How to reach me : github.com/amzahaja67-nox
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,20&height=150&section=footer&text=&fontSize=0" width="100%" />
