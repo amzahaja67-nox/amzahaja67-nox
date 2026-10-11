@@ -28,6 +28,19 @@
 
 ---
 
+### 🎨 Figma Design - AZ Store
+
+[![Figma](https://img.shields.io/badge/Figma-AZ_Store%20App-1ABCFE?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/WF7QjzBzrWMthT6nz6Zpa9/Projek-Figma-Azka?node-id=1-3&t=4E9JU4XzvDJiSamN-1)
+[![Prototype](https://img.shields.io/badge/Prototype-Live_Demo-8A2BE2?style=for-the-badge&logo=prototype&logoColor=white)](https://www.figma.com/proto/WF7QjzBzrWMthT6nz6Zpa9/Projek-Figma-Azka?node-id=1-3&t=4E9JU4XzvDJiSamN-1)
+
+> **AZ Store** - Aplikasi E-Commerce Oversize T-Shirt Distro
+> 12 Product Screens | 3 Checkout Flows | Purple Modern UI
+> Designed in Figma - Click badge to view prototype
+
+🔗 **Link:** https://www.figma.com/design/WF7QjzBzrWMthT6nz6Zpa9/Projek-Figma-Azka?node-id=1-3&t=4E9JU4XzvDJiSamN-1
+
+---
+
 ### 🚀 About Me
 - 🎓 Information Systems Student at Jambi
 - 💻 Full Stack Developer
