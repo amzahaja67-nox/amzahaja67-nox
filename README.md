@@ -48,5 +48,5 @@
 ---
 
 <p align="center"> 
-  📫 How to reach me: **github.com/amzahaja67-nox**
+  📫 How to reach me : github.com/amzahaja67-nox
 </p>
