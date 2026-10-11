@@ -28,6 +28,8 @@
 
 ---
 
+![AZKA STORE banner](azka-banner.jpg)
+
 ### 🎨 Figma Design - AZ Store
 
 [![Figma](https://img.shields.io/badge/Figma-AZ_Store%20App-1ABCFE?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/WF7QjzBzrWMthT6nz6Zpa9/Projek-Figma-Azka?node-id=1-3&t=4E9JU4XzvDJiSamN-1)
