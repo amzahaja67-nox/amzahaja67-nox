@@ -73,6 +73,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amzahaja67-nox&theme=tokyonight" alt="streak" />
 </p>
 
+![snake gif](https://github.com/amzahaja67-nox/amzahaja67-nox/blob/output/github-snake-dark.svg)
+
 ---
 
 <p align="center"> 
