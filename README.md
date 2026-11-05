@@ -69,7 +69,7 @@
 
 <p align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amzahaja67-nox&theme=tokyonight" alt="streak" />
+  ![streak](https://streak-stats.demolab.com/?user=amzahaja67-nox&theme=dark)
 </p>
 
 ![snake gif](https://raw.githubusercontent.com/amzahaja67-nox/amzahaja67-nox/output/github-snake-dark.svg)
