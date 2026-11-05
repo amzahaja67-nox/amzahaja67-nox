@@ -68,7 +68,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=amzahaja67-nox&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=amzahaja67-nox&theme=dark&hide_border=true" />
 </p>
 
 ![snake gif](https://raw.githubusercontent.com/amzahaja67-nox/amzahaja67-nox/output/github-snake-dark.svg)
