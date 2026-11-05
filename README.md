@@ -69,7 +69,7 @@
 
 <p align="center">
   <br/>
-  ![streak](https://streak-stats.demolab.com/?user=amzahaja67-nox&theme=dark)
+  ![streak](https://streak-stats.demolab.com/?user=amzahaja67-nox&theme=dark&hide_border=true)
 </p>
 
 ![snake gif](https://raw.githubusercontent.com/amzahaja67-nox/amzahaja67-nox/output/github-snake-dark.svg)
